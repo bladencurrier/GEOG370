@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BostonPolygon2GJ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "LandFIll": "Land Filled In" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.032986522459453, 42.351112352792533 ], [ -71.025466082794594, 42.350535135659896 ], [ -71.026961581895137, 42.345417732547858 ], [ -71.035294245371475, 42.346454011708047 ], [ -71.032986522459453, 42.351112352792533 ] ] ] ] } }
+]
+}
